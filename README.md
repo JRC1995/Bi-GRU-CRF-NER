@@ -5,7 +5,7 @@ Dataset Source: https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus
 
 (only using first 10,000 samples with sentence length<=20 for training, validation, and testing)
 
-The paper introducing CRF (Conditional Random Field):
+The paper introducing CRF (Conditional Random Field):  
 [Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data - by John Lafferty, Andrew McCallum, Fernando C.N. Pereira](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)
 
 CRF in details: [An Introduction to Conditional Random Fields - by Charles Sutton and Andrew McCallum](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
