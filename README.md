@@ -11,7 +11,7 @@ The paper introducing CRF (Conditional Random Field):
 CRF in details: [An Introduction to Conditional Random Fields - by Charles Sutton and Andrew McCallum](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
 
 Notes I used to understand CRF:  
-http://pages.cs.wisc.edu/~jerryzhu/cs838/CRF.pdf
+http://pages.cs.wisc.edu/~jerryzhu/cs838/CRF.pdf  
 https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html  
 https://www.youtube.com/user/hugolarochelle/search?query=crf
 
